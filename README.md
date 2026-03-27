@@ -7,8 +7,7 @@ This repository is a one-week advanced prototype starter for:
 
 ## Demo Video
 
-- Add your demo link here: `https://github.com/keerthiivasan19-kv/Presentation-with-Hand-and-Sound-Gesture/releases`
-- Suggested title: `Presentation with gesture - Full Demo`
+- [Presentation with gesture - Full Demo (MOV)](docs/media/presentation-demo.mov)
 
 ## 1) Architecture
 
