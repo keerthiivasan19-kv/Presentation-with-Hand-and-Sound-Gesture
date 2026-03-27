@@ -5,6 +5,11 @@ This repository is a one-week advanced prototype starter for:
 - PowerPoint-style slide deck + presentation mode
 - Hand + sound gesture control (MediaPipe + OpenCV + WebSocket + clap detection)
 
+## Demo Video
+
+- Add your demo link here: `https://github.com/keerthiivasan19-kv/Presentation-with-Hand-and-Sound-Gesture/releases`
+- Suggested title: `Presentation with gesture - Full Demo`
+
 ## 1) Architecture
 
 ```text
